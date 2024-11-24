@@ -2022,7 +2022,7 @@ fieldset[disabled] .radio-custom label {
 }
 
 .wechat-dialog-image {
-    border: 1px #d5d5d5 solid;
+/*     border: 1px #d5d5d5 solid; */
     padding: 0;
     background: 0 0;
     overflow: hidden
@@ -2033,8 +2033,8 @@ fieldset[disabled] .radio-custom label {
 }
 
 .wechat-dialog-image img {
-    max-width: 420px;
-    max-height: 420px
+    max-width: 720px;
+    max-height: 720px
 }
 
 .wechat-dialog-image:after {
